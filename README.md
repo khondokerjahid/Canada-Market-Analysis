@@ -1,6 +1,7 @@
 ![image](https://github.com/user-attachments/assets/faf38f79-04f6-44a0-911e-e5b4ac47b5c0)
 
-Analysis 5 years data over 5 crore data.   The  main issues of this project is huge blank and error data was there and there is maximum dummy  data . That’s why analyzed file stop working.  And most of graphs are crashed. Last two years data file , quantity data  not added for function error. So, In this case I solved all the things. And created a summary file. 
+Analysis 5 years dataset over 5 crore data.   The  main issues of this project is huge blank and error data was there and there is maximum dummy  data . That’s why analyzed file stop working.  And most of graphs are crashed. Last two years data file , quantity data file not added for function error. So, In this case I solved all the things. Month to Month analysis , Year to Year Analysis and so many things from requirement.  And created a summary file.
+ 
 
 
 
@@ -14,7 +15,13 @@ Analysis 5 years data over 5 crore data.   The  main issues of this project is h
  6. Write a brief summary explain (findings) about the business insides for those top customers 
  7. Total Quantity & Extended Price for the Top 10 & Bottom 10 Product
 
-Results:
+
+![image](https://github.com/user-attachments/assets/1311084c-868d-46fd-8bcd-6e979227d1af)
+
+
+
+![image](https://github.com/user-attachments/assets/8ebd96bc-606e-4a07-aa79-58a487127ab2)
+
 
 1. 
 ![image](https://github.com/user-attachments/assets/1e645f81-7c66-4b74-b090-c7be8ea69ebf)
